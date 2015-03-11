@@ -1,0 +1,13 @@
+{
+  "name": "pipetomore-server_backup",
+  "version": "0.1.0",
+  "author": "bairdt",
+  "summary": "Basic Server Backup module",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"pipetomore-nfs","version_requirement":">= 0.0.1"}
+  ]
+}
