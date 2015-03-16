@@ -1,5 +1,5 @@
 {
-  "name": "pipetomore-server_backup",
+  "name": "bairdt-serverbackup",
   "version": "0.1.0",
   "author": "bairdt",
   "summary": "Basic Server Backup module",
@@ -7,7 +7,6 @@
   "source": "",
   "project_page": null,
   "issues_url": null,
-  "dependencies": [
-    {"name":"pipetomore-nfs","version_requirement":">= 0.0.1"}
+  "dependencies": ""
   ]
 }
