@@ -1,4 +1,4 @@
-name         'pipetomore-server_backup'
+name         'bairdt-serverbackup'
 version      '0.1.0'
 source       ''
 author       'bairdt'
